@@ -4,7 +4,7 @@ Please be advised that Blockchair provides blockchain search and analytics servi
 
 ### General
 
-Q: Please refund my transaction, there's been a mistake!
+Q: Please refund my transaction, there's been r to a mistake!
 
 A: Blockchair is not a bank, just a search engine, and we can't reverse transactions in public blockchains! No one can — irreversibility is one of the fundamental properties of cryptocurrency.
 
