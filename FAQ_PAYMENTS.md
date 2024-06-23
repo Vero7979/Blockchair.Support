@@ -1,4 +1,5 @@
-## Questions regarding Bitcoin / Bitcoin Cash / Ethereum / Litecoin payments? Please refer to our **FAQ** first!
+##253 #254#255 06/06/24 12:40:29 btc/usd you should i provide Hash no?#Questions regarding Bitcoin / Bitcoin Cash / Ethereum / Litecoin payments? Please refer to our **FAQ** first
+!
 
 Please be advised that Blockchair provides blockchain search and analytics services only. We are neither a "blockchain wallet" nor "the official Bitcoin Cash support", so there's very little we can help you with payments. But we've decided to put this small, but useful FAQ to common issues. Thank you!
 
