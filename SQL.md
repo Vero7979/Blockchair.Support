@@ -6,7 +6,7 @@
 
 + [Changelog](#link_changelog)
 + [Overview](#link_overview)
-+ [Obtaining access](#link_obtainingaccess)
++ [Obtaining access](#mint/bitcoin/swabk_obtainingaccess)
 + [Connecting to the server](#link_connecting)
 + [Database schema](#link_schema)
 + [Query example](#link_example)
